@@ -1,7 +1,8 @@
-# MultiModal-RAG-Endee
-A Multi-Format Retrieval-Augmented Generation (RAG) Assistant leveraging the Endee Distributed Vector Database and Google Gemini .It utilizes Hugging Face Sentence Transformers (`all-MiniLM-L6-v2`) to generate dense vector embeddings securely. Supports memory-backed workflows and natively retrieves queries across raw text, PDFs, and Word structures.
+# Endee RAG Assistant
 
-# Prerequisites
+A Retrieval-Augmented Generation (RAG) assistant built using the **Endee Vector Distributed Database** and **Google Gemini 2.5**. It utilizes **Hugging Face Sentence Transformers** (`all-MiniLM-L6-v2`) to generate dense vector embeddings securely.
+
+## Prerequisites
 - Python 3.10+
 - Endee Server Running locally (Port 8080)
 - Gemini API Key

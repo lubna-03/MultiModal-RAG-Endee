@@ -1,0 +1,4 @@
+To install the Endee client, use 'pip install endee-python'. 
+To start the server using Docker, run 'docker-compose up -d'. 
+Ensure you have converted line endings from CRLF to LF for shell scripts 
+to avoid errors on Linux-based containers.

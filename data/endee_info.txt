@@ -1,0 +1,4 @@
+Endee is a high-performance vector database designed for AI search. 
+It supports HNSW indexing for fast approximate nearest neighbor search. 
+The default port for the Endee API is 8080. 
+Key features include metadata filtering and low-latency retrieval.
